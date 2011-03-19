@@ -1,4 +1,4 @@
-:: @echo off
+@echo off
 rem
 rem Usage: patch_make.bat old_file new_file patch_file ...
 rem
